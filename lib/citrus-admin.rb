@@ -9,7 +9,7 @@ require 'json'
 require 'websocket-eventmachine-client'
 require 'websocket-eventmachine-server'
 
-require 'citrus-monitor'
+require 'pomelo-citrus-monitor'
 
 require 'citrus-admin/util/protocol'
 require 'citrus-admin/util/utils'
